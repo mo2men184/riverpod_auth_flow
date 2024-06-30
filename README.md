@@ -2,6 +2,10 @@
 
 Welcome to Flutter Firebase Authentication with Riverpod! This Flutter application demonstrates a robust implementation of Firebase Authentication methods using Riverpod for state management.
 
+## 📽 Preview
+
+![App Demo](preview/riverpod_auth_flow.gif)
+
 ## Features 🚀
 
 - **Email/Password Authentication**: Sign up and sign in securely with email and password.
